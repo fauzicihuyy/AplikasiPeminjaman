@@ -1,4 +1,4 @@
-# AplikasiPeminjaman
+# Aplikasi Peminjaman Sederhana
 Aplikasi Peminjaman Alat dengan VBA Access
 
 user : Admin <br>
